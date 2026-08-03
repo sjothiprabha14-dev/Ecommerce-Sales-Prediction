@@ -142,8 +142,9 @@ This project is licensed under the MIT License.
 
 **JothiPrabha S**
 
-- GitHub: https://github.com/your-username
-- LinkedIn: https://www.linkedin.com/in/your-linkedin-profile
+
+- GitHub: https://github.com/sjothiprabha14-dev
+- LinkedIn: https://www.linkedin.com/in/jothiprabha-s-402383328
 
 ---
 
